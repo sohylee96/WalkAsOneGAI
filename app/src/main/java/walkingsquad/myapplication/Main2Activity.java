@@ -2,6 +2,7 @@ package walkingsquad.myapplication;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.View;
 
 public class Main2Activity extends AppCompatActivity {
 
